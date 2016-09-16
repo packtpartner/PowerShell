@@ -120,7 +120,7 @@ Commercial Resources
 - [Windows PowerShell in Action][in-action] by Bruce Payette
 - [Introduction to PowerShell][powershell-intro] from Pluralsight
 - [PowerShell Training and Tutorials][lynda-training] from Lynda.com
-- [Microsoft Exchange Server PowerShell Essentials] from Packt
+- [Microsoft Exchange Server PowerShell Essentials][Packt] from Packt
 
 
 [in-action]: https://www.amazon.com/Windows-PowerShell-Action-Second-Payette/dp/1935182137
